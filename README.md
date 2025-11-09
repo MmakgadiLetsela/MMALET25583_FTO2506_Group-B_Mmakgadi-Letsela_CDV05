@@ -7,4 +7,15 @@
 - The brief was to complete a portfolio website with at least 2 projects detailing them.
 - It also had a contact section and an about me section.
 
-## Technologies Used
+## Technologies Used ⚙️
+- HTML
+- CSS
+- Javascript
+
+
+## Set-up Instructions 📜
+
+- This project can be opened on Chrome, Safari, Edge and Firefox.
+- Click the link below to view the web page.
+- Use Visual Studio Code to view the code behind the project.
+- 
