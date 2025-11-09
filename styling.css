@@ -79,10 +79,8 @@ box-sizing: border-box;
 }
 
 .nav-item a:hover{
-    color: var(--seconday-text-color);
+    color: var(--secondary-text-color);
 }
-
-
 
 
   /* ================
