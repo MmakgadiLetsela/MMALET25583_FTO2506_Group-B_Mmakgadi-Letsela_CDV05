@@ -22,6 +22,7 @@
 ## Interactivity 🎆
 - Hover over Mmakgadi in the welcome heading to see sparkles.
 - Load the page and be welcomed with a pop-up.
+- Hover over the nav bar items and it changes color.
 
 ## Acknowlegements 💁
 - This project was completed by Mmakgadi Letsela for CDV05.
