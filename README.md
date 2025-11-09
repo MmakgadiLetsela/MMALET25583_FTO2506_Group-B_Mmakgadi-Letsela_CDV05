@@ -18,4 +18,15 @@
 - This project can be opened on Chrome, Safari, Edge and Firefox.
 - Click the link below to view the web page.
 - Use Visual Studio Code to view the code behind the project.
-- 
+
+## Interactivity 🎆
+- Hover over Mmakgadi in the welcome heading to see sparkles.
+- Load the page and be welcomed with a pop-up.
+
+## Acknowlegements 💁
+- This project was completed by Mmakgadi Letsela for CDV05.
+
+
+## Contact details ☎️
+- Email: 
+- LinkedIn: 
