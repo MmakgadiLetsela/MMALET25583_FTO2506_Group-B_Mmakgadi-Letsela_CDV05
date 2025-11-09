@@ -19,3 +19,11 @@
 - Click the link below to view the web page.
 - Use Visual Studio Code to view the code behind the project.
 - 
+
+## Acknowlegements 💁
+- This project was completed by Mmakgadi Letsela for CDV05.
+
+
+## Contact details ☎️
+- Email: 
+- LinkedIn: 
