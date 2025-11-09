@@ -1,0 +1,39 @@
+/* ================
+    GLOBAL STYLES
+  ================= */
+:root{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
+
+/* ================
+    BASE STYLES
+  ================= */
+
+#container{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:coral;
+    padding: 1.5rem;
+    
+}
+
+
+
+
+
+
+
+  /* ================
+    HEADER STYLES
+  ================= */
+
+
+
+
+
+
+  /* ======================
+    NAVIGATION BAR STYLES
+  ======================== */
