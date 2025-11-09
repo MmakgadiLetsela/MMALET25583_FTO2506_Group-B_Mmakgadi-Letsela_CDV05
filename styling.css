@@ -56,8 +56,6 @@ box-sizing: border-box;
 }
 
 
-
-
   /* ======================
     NAVIGATION BAR STYLES
   ======================== */
@@ -138,4 +136,19 @@ box-sizing: border-box;
 .projects-heading{
     margin-bottom: 2rem;
     
+}
+
+.project{
+    margin-bottom: 2rem;
+}
+
+ /* ==================
+     CONTACT SECTION 
+  ==================== */
+
+.contact{
+    text-decoration: none;
+    color: var(--primary-text-color);
+    font-size: var(--primary-font-size);
+    margin:0 .9375rem;
 }
