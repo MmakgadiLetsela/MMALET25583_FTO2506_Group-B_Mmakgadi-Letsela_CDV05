@@ -3,8 +3,6 @@
   ================= */
 :root{
 box-sizing: border-box;
-margin: 0;
-padding: 0;
 --primary-text-color: black;
 --secondary-text-color: white;
 --primary-color: coral;
@@ -37,7 +35,8 @@ padding: 0;
 /* Description*/
 .description{
     font-size: var(--primary-font-size);
-    color: var(--secondary-text-color)
+    color: var(--secondary-text-color);
+    margin: .625rem 0;
 }
 
 
