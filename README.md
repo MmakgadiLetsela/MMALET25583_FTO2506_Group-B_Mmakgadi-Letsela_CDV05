@@ -29,5 +29,5 @@
 
 
 ## Contact details ☎️
-- Email: 
-- LinkedIn: 
+- Email: [mmakgadi.letsela@gmail.com]
+- LinkedIn: [http://www.linkedin.com/in/mmakgadi-letsela]
